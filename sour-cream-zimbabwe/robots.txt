@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nsudan1.dmitstudent.ca/sour-cream-zimbabwe/sitemap.xml
